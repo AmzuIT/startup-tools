@@ -3,7 +3,7 @@
 |----|----|--------|--------|----------------|-------|------------|-------|----|
 |d3.js|JavaScript|Frontend|Javascript|Cross Platform|BDS|Open Source|http://d3js.org|Visualisation; Visualization; data visualisation; Javascript|
 |Selenium|UI Testing|Frontend|Java|Cross Platform|Apache License 2.0|Open Source|http://seleniumhq.org|Testing; UI Testing; UI|
-|LICECap|Tool|Frontend|NA|"Windows| OS X"|GNU 2|Open Source|http://www.cockos.com/licecap/|GIF; Screen grab; Screen to GIF; Screen Recorder|
+|LICECap|Tool|Frontend|NA|Windows; OS X|GNU 2|Open Source|http://www.cockos.com/licecap/|GIF; Screen grab; Screen to GIF; Screen Recorder|
 |Kibana|Tool|Frontend|Javascript|Cross Platform|Apache License 2.0|Open Source|http://elastic.co|Visualisation; Logging; Log|
 |Logstash|Tool|Middleware|Java|Cross Platform|Apache License 2.0|Open Source|http://elastic.co|Search; Analyse; Analyze; Visualisation; Logging; Log|
 |Elasticsearch|Tool|Middleware|Java|Cross Platform|Apache License 2.0|Open Source|http://elastic.co|Search; Analyse; Analyze; Visualisation; Logging; Log|
