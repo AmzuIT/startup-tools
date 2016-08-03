@@ -51,4 +51,4 @@ Hive|Big Data|Backend|Java|Cross Platform|Apache License 2.0|Open Source|http://
 |Netflix Simian Army|DR Testing Tool|Backend|Java|Cross Platform|Apache License 2.0|Open Source|https://github.com/Netflix/SimianArmy|DR; Disaster Recovery, Tool|
 |Terraform|DevOps|Backend|CLI|Cross Platform|Apache License 2.0|Open Source|https://terraform.io|Infrastructure, Infrastructure as Code, Cloud Management, Cloud, AWS|
 |Geb|Testing|Frontend|Groovy|Cross Platform|Apache License 2.0|Open Source|http://gebish.org|Browser Testing, script|
-
+|Grunt JS|Javascript Automation|Frontend|Javascript|Cross Platform| Same as JQuery|Open Source|http://gruntjs.com/|script, javascript, automation|
