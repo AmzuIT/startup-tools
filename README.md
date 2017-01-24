@@ -11,6 +11,7 @@
 |Slack|Tool|Frontend|NA|Cloud|Closed Source|Commercial|http://slack.com|Messaging; Discussion; Chat Room|
 |Docker|IT Automation|Infrastructure|Docker Script|Linux|Apache License 2.0|Open Source|http://docker.com|Deployment; Container|
 |NodeJS|Application Server|Middleware|C; C++; Javascript|Cross Platform|MIT|Open Source|http://nodejs.org|Middleware; Application Server; Server; Javascript|
+|NodeJS Electron|UI|UI|HTML, CSS, Javascript, C++|Cross Platform|MIT|Open Source|http://electron.atom.io/ |UI, Cross Platform, Middleware; Application Server; Client; Javascript|
 |XMLDirector|Content Management|Middleware|Python|Cross Platform|Apache License 2.0|Open Source|http://xml-director.info |XML; PDF; ePub|
 |Chef|IT Automation|Infrastructure|Ruby|Cross Platform|Apache License 2.0|Open Source|http://chef.io |Automation; Server management; Ruby|
 |Puppet|IT Automation|Infrastructure|Ruby|Cross Platform|Apache License 2.0|Open Source|http://puppetlabs.com |Automation; Server management; Ruby|
