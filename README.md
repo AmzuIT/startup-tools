@@ -28,7 +28,8 @@ Hive|Big Data|Backend|Java|Cross Platform|Apache License 2.0|Open Source|http://
 |Spark|Big Data|Backend|Scala; Java; Python; R|Cross Platform|Apache License 2.0|Open Source|http://spark.apache.org|Big Data; Cluster Computing; Machine learning|
 |Ambari|Big Data|Backend|NA|Cross Platform|Apache License 2.0|Open Source|http://ambari.apache.org|Big Data; Cluster Computing; Machine learning; Management; Hadoop|
 |Avro|RPC|Backend|Java|Cross Platform|Apache License 2.0|Open Source|http://avro.apache.org|Big Data; Hadoop; RPC|
-|Kafka|Message Broker|Integration|Scala|Cross Platform|Apache License 2.0|Open Source|http://kafka.apache.org|Big Data; Messaging; Message Broker|
+|Kafka|Massive Message Broker|Integration|Java, Scala|Cross Platform|Apache License 2.0|Open Source|http://kafka.apache.org|Big Data; Messaging; Message Broker|
+|Storm|Realtime Computing|Integration|Java, Scala etc|Cross Platform|Apache License 2.0|Open Source|http://storm.apache.org |Big Data; Realtime, Computing|
 |Mahout|Machine Language|Backend|Java; Scala|Cross Platform|Apache License 2.0|Open Source|http://mahout.apache.org|Big Data; Machine Language|
 |MongoDB|Big Data|Backend|Java; Scala; C#; Python|Cross Platform|GNU AGPL v3.0|Open Source|http://mongodb.org|Big Data; NoSQL|
 |casandra|Big Data|Backend|Java|Cross Platform|Apache License 2.0|Open Source|http://cassandra.apache.org|Big Data; NoSQL|
