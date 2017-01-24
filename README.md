@@ -1,4 +1,9 @@
 # startup-tools
+
+The below tools are part of many Big Data programmes i have done before. Hope this helps someone looking for Start-up toolset with specific use case that needs a Big Data backend and frontend build. Note that this is not comprahensive and not final as there are lot of other technologies which are associated with Big Data. 
+
+*Venkatesh Balakumar* 
+
 |Tool|Type|Location|Language|Operating System|License|License Type|Website|Tags|
 |----|----|--------|--------|----------------|-------|------------|-------|----|
 |d3.js|JavaScript|Frontend|Javascript|Cross Platform|BDS|Open Source|http://d3js.org|Visualisation; Visualization; data visualisation; Javascript|
