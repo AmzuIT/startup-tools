@@ -1,6 +1,6 @@
 # startup-tools
 
-The below tools are part of many Big Data programmes i have done before. Hope this helps someone looking for Start-up toolset with specific use case that needs to build Big Data backend and frontend. Note that this is not comprahensive and not final as there are lot of other technologies which are associated with Big Data. 
+The below tools are part of many Big Data programmes i have done before. Hope this helps someone looking for Start-up toolset with specific use case that needs to build Big Data backend and frontend. Some are closed source or commercial, but can be considered with some additional investment. Note that this is not comprahensive and not final as there are lot of other technologies which are associated with Big Data. 
 
 *Venkatesh Balakumar* 
 
